@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Smooth Rider",
+  "base_artist": "smorgas",
+  "createdAt": "2026-02-14T14:43:34.495823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smooth Rider",
+      "artist": "Dave Matthews Band",
+      "has_synced": false,
+      "path": "select/01_Smooth_Rider_Dave_Matthews_Band.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smooth Rider - Live at Fenway Park, Boston, MA - July 2006",
+      "artist": "Dave Matthews Band",
+      "has_synced": false,
+      "path": "select/02_Smooth_Rider_-_Live_at_Fenway_Park,_Boston,_MA_-_July_2006_Dave_Matthews_Band.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smooth Rider (Live at Fenway Park, Boston, MA - July 7, 2006)",
+      "artist": "Dave Matthews Band",
+      "has_synced": false,
+      "path": "select/03_Smooth_Rider_(Live_at_Fenway_Park,_Boston,_MA_-_July_7,_2006)_Dave_Matthews_Band.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smooth Rider",
+      "artist": "Dave Matthews",
+      "has_synced": true,
+      "path": "select/04_Smooth_Rider_Dave_Matthews.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Smooth Rider",
+      "artist": "Dave Matthews Band",
+      "has_synced": true,
+      "path": "select/05_Smooth_Rider_Dave_Matthews_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smooth Rider",
+      "artist": "Dave Matthews Band",
+      "has_synced": true,
+      "path": "select/06_Smooth_Rider_Dave_Matthews_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smooth Rider",
+      "artist": "Dave Matthews Band",
+      "has_synced": true,
+      "path": "select/07_Smooth_Rider_Dave_Matthews_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smooth Rider",
+      "artist": "smorgas",
+      "has_synced": false,
+      "path": "select/pl_01_Smooth_Rider_smorgas.txt"
+    }
+  ]
+}
